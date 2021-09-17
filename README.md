@@ -22,7 +22,7 @@ Flckster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/58Dqyvb.mp4" width=250><br>
+<img src="https://media.giphy.com/media/sLQ97cIBWZqlQiYX4x/giphy.gif?cid=790b76119eae006dba3d6f3feb6a25d2ca4a8cba37b41c4e&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 I encountered a small hiccup where I kept failing to run the app due to a fail to install error. After some googling, it seemed like I had multiple instances of the debugger running, and completely closing out of my IDE and reopening it fixed the issue.
