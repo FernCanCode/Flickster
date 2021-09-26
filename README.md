@@ -20,7 +20,8 @@ Flckster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="https://media1.giphy.com/media/u5bikMJmGl5rz0kJFP/giphy.gif?cid=790b7611c1218c05272e62bdf6d400a7d72f707e8b0986a1&rid=giphy.gif&ct=g" width=250><br>
+<img src="https://media1.giphy.com/media/YQ4aGs5JcGLPcsECvc/giphy.gif?cid=790b76111912284a1b40543ae9f805654a6b14f5e0f65c7f&rid=giphy.gif&ct=g" width=250><br>
+<img src="https://media2.giphy.com/media/h1snKcRfMzZ00dHZki/giphy.gif?cid=790b7611d4e76906b46df493932363dae0826d17bedc8f50&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 
